@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="17" height="25" tilewidth="55" tileheight="55" nextobjectid="1">
+ <tileset firstgid="1" name="grass" tilewidth="55" tileheight="55" tilecount="81">
+  <image source="grass.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="82" name="grass1" tilewidth="55" tileheight="55" tilecount="81">
+  <image source="grass1.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="163" name="grass2" tilewidth="55" tileheight="55" tilecount="81">
+  <image source="grass2.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="244" name="grass3" tilewidth="55" tileheight="55" tilecount="81">
+  <image source="grass3.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="325" name="grass4" tilewidth="55" tileheight="55" tilecount="81">
+  <image source="grass4.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="17" height="25">
+  <data encoding="base64" compression="zlib">
+   eJyt1TtOw0AQBmCP7cqJaRyCBH7Q8Gp4HQIQIAESF6IELoKUCrgCVyCiQ1ScAWj4l8xIo/VkHckUX7LKrn/tyxOKooh6iqGBnJWsgCMMOIYTyKK2kjMG8ASPTNpf8KN88+/PaqxrpzCCB3hhum2ZeG0396oj45rCGWNe0yt8snd4C/hQY6e8l5WXod1iDndwT3a/ZNSBjC5TXkvNexDT4hJIabYfshbJkL5FSUbjzUNyMhjAEHJY8voTzqj4nlkZBYxgGcawQu25Tvh5l7OKRuUp+buGBtaNMWs0e96/H2ID/ZuwBduwY5yvnMu8jF08swf7cACHczIaXk+f++HeuewfMoqed8xlxIE7dgpncB64Y6lxP3Q9svzVHXXHcmM//L25ofYe6HZsnEvX/voZCc9D1x1pW/VUapCuR0M+F7/Wiwt8XMIVhf8byh7cu+Lqzy/ZCbl6
+  </data>
+ </layer>
+</map>
